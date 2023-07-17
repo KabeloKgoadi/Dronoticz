@@ -45,7 +45,7 @@ header{
     padding-right: 40px;
     padding-top: 12px;
     padding-bottom: 12px;
-    size: 16px;
+    font-size: 16px;
     margin: 10px;
 }
 
@@ -136,9 +136,7 @@ main{
 
 #email{
     padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 100px;
-    padding-right: 100px;
+    width: 27px;
     border-style: hidden;
 }
 
