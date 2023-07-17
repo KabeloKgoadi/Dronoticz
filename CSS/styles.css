@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+.headerLine{
+    border-bottom: 7px solid black;
+    width: 128px;
+
+}
+
+.logo a{
+    color: #D9D9D9;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 24px;
+}
+
+
+.head h1{
+    font-size: 112px;
+    padding-top: 150px;
+}
+
+.head p{
+    font-size: 32px;
+    
+}
+
+header{
+    background-image: url("hero.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1464px;
+    height: 932px;
+}
+
+#btnSubscribe{
+    background-color: transparent;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    size: 16px;
+    margin: 10px;
+}
+
+.topRow{
+    padding: 10px;
+}
+
+.topRow h1{
+    margin: 10px;
+}
+
+.subHead{
+    padding-top: 200px;
+    padding-bottom: 150px;
+}
+
+.subHead p{
+    font-size: 32px;
+}
+
+main{
+    background-color: #F8F8F8;
+    margin-top: 20px;
+}
+
+.secLine, .abtLine{
+    border-bottom: 2px solid black;
+    width: 69px;
+}
+
+.droneImg{
+    width: 752px;
+    height: 835px;
+}
+
+.cardDrone{
+    width: 282px;
+}
+
+.drone1{
+    border-bottom: 2px solid black;
+    width: 64px;
+    padding-top: 48px;
+}
+
+.cards p{
+    font-size: 16px;
+    padding-top: 24px;
+}
+
+.cards{
+    padding-top: 100px;
+}
+
+.card1{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    width: 282px;
+    background-color:#FFFFFF;
+}
+
+.about h4{
+    font-size: 32px;
+}
+
+.about p{
+    font-size: 16px;
+    text-align: justify;
+}
+
+.about{
+    padding: 50px;
+}
+
+.subscribe h1{
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+.subscribe p{
+    font-size: 16px;
+}
+
+.boxSubscribe{
+    background-color: #F8F8F8;
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+
+#email{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-style: hidden;
+}
+
+#btnSubmit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: transparent;
+    margin-top: 20px;
+}
+
+footer{
+    padding: 50px;
+}
+
+.fa{
+    padding: 15px;
+    border-radius: 50%;
+    background-color: #CBDEEC;
+    text-decoration: none;
+    margin: 7px;
+}
+
+.fa-twitter{
+    color: #FFFFFF;
+}
+
+.fa-linkedin{
+    color: #FFFFFF;
+}
+
+.fa-pinterest{
+    color: #FFFFFF;
+}
