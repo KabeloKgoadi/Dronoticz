@@ -190,8 +190,8 @@ footer{
     }
 
     .head h1{
-        font-size: inherit;
-        padding-top: 5px;
+        font-size: 50px;
+        padding-top: 80px;
     }
 
     .logo{
@@ -205,11 +205,11 @@ footer{
 
     .headerLine{
         border-bottom: 2px solid black;
-        width: 30px;
+        width: 50px;
     }
 
     .head p {
-        font-size: 10px;
+        font-size: 25px;
     }
 
     .cards table, .cards td, .cards tr {
@@ -225,17 +225,17 @@ footer{
       }
 
       .droneImg{
-        width: 412px;
+        width: 420px;
         height: 380px;
       }
 
       .topRow header{
         display: flex;
         flex-wrap: wrap;
-        background-size: contain;
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
+      }
+
+      header{
+        background-position: right;
       }
 
     
