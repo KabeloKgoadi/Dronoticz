@@ -19,6 +19,11 @@ nav a{
     padding: 24px;
 }
 
+nav a:hover{
+    border-bottom: 7px solid #CBDEEC;
+    
+}
+
 
 .head h1{
     font-size: 112px;
@@ -36,7 +41,7 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1464px;
+    /*background-size: 1464px;
     /*background-size: contain; */
     height: 932px;
     padding: 20px;
@@ -50,6 +55,11 @@ header{
     padding-bottom: 12px;
     font-size: 16px;
     margin: 10px;
+}
+
+#btnSubscribe:hover{
+    background-color: #CBDEEC;
+    border: none;
 }
 
 .topRow{
@@ -240,7 +250,3 @@ footer{
 
     
   }
-
-.fa-pinterest{
-    color: #FFFFFF;
-}
